@@ -10,7 +10,6 @@
 
 
 ## Contents
-
 - [Overview](#overview)
 - [Repo Contents](#repo-contents)
 - [System Requirements](#system-requirements)
@@ -19,7 +18,7 @@
 - [Results](#results)
 - [License](./LICENSE)
 - [Issues](https://github.com/ebridge2/lol/issues)
-- [Citation](#citation)
+- Citation
 
 # Overview
 
